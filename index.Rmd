@@ -1,6 +1,6 @@
 ---
-title: "index.Rmd"
-author: "sing"
+title: "Cheng's Website"
+author: "Nicholas cheng wah"
 date: "12/29/2018"
 output: html_document
 ---
@@ -9,22 +9,30 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+Stats Graduate
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Summarize your trajectory.
 
-```{r cars}
-summary(cars)
-```
+## Interests
 
-## Including Plots
+* Interest 1
+* Interest 2
+* etc
 
-You can also embed plots, for example:
+## Projects
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* List some of your recent projects
+* Personal Website via github with R Markdown
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Profiles 
+
+* [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+* ...
+* [GitHub](http://github.com/cheng-wah)
+
+## Contact
+
+* [chengwah93@gmail](mailto:chengwah93@gmail)
+* [chengwah1@hotmail](mailto:chengwah1@hotmail)
