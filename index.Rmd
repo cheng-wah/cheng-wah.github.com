@@ -4,6 +4,9 @@ author: "Nicholas cheng wah"
 output: 
   html_document:
     theme: readable
+    toc: true
+    toc_depth: 3
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -18,7 +21,7 @@ Summarize your trajectory.
 
 ## Interests
 
-* Interest 1
+* R
 * Interest 2
 * etc
 
